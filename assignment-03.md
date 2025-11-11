@@ -19,14 +19,12 @@ such strange denominations. You think about it a while, and because
 you had such a good Algorithms instructor, you realize that there is a
 very clever reason. 
 
-**1a)** Given a $N$ dollars, state a greedy algorithm for producing
-as few coins as possible that sum to $N$.
+**1a)** Given a $N$ dollars, state a greedy algorithm for producing as few coins as possible that sum to $N$.
 
 **enter answer in `answers.md`**
 
 
-**1b)** Prove that this algorithm is optimal by proving the greedy
-  choice and optimal substructure properties.
+**1b)** Prove that this algorithm is optimal by proving the greedy choice and optimal substructure properties.
 
 **enter answer in `answers.md`**
 
@@ -47,25 +45,17 @@ even make change. So you wonder, given $N$ dollars is it possible to
 even make change? If so, how can it be done with as few coins as
 possible?
 
-**2a)** You realize the greedy algorithm you devised above doesn't
-  work in Fortuito. Give a simple counterexample that shows that the
-  greedy algorithm does not produce the fewest number of coins.
+**2a)** You realize the greedy algorithm you devised above doesn't work in Fortuito. Give a simple counterexample that shows that the greedy algorithm does not produce the fewest number of coins.
   
 **enter answer in `answers.md`**
 
 
-**2b)** Since you paid attention in Algorithms class, you realize that
-  while this problem does not have the greedy choice property it does
-  have an optimal substructure property. State and prove this
-  property.
+**2b)** Since you paid attention in Algorithms class, you realize that while this problem does not have the greedy choice property it does have an optimal substructure property. State and prove this property.
 
 **enter answer in `answers.md`**
 
 
-**2c)** Use this optimal substructure property to design a
-  dynamic programming algorithm for this problem. If you used top-down
-  or bottom-up memoization to avoid recomputing solutions to
-  subproblems, what is the work and span of your approach?
+**2c)** Use this optimal substructure property to design a dynamic programming algorithm for this problem. If you used top-down or bottom-up memoization to avoid recomputing solutions to subproblems, what is the work and span of your approach?
 
 **enter answer in `answers.md`**
 
